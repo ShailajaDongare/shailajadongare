@@ -1,6 +1,37 @@
-###  👋 Hi I'm Shailaja Dongare
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/jigar-sable/" target="_blank"> Shailaja Dongare </a></h1>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 
-https://camo.githubusercontent.com/132536598777ec2ee0b525bc0bf97fd5a23e512243bf1c9038c6bb22453e4aa6/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d303335374637266c696e65733d46756c6c2b537461636b2b446576656c6f7065722b25334129
+- 🌱 Learning Never Stops 🚀
+
+- 💬 Ask me about **Java, MySQL**
+
+- 👨‍💻 Check out my personal portfolio : **<a href="" target="_blank">Portfolio</a>**
+
+- 😄 Pronouns: She/Her
+
+<h3 align="left">Connect with me:</h3>
+<div align="left">
+  <a href="https://www.linkedin.com/in//"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dshailaja816@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   <a href="https://www.instagram.com/shailaja_4647"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="[https://t.me/lifecode5](https://web.telegram.org/k/#-1880285309)"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</div>
+
+
+
+<h3 align="left">Languages :</h3>
+<div align="left">
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+ 
+</div>
+
+<h3 align="left">Databases :</h3>
+<div align="left">
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
+
+
+
 
 <!--
 **ShailajaDongare/shailajadongare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
